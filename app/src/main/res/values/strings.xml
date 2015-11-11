@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">service-lab-android</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="intentService">Intent Service</string>
+    <string name="localService">Local Service</string>
+
     <string name="stopAlarm">Stop Alarm</string>
     <string name="startAlarm">Start Alarm</string>
 </resources>

@@ -25,6 +25,18 @@
             android:text="@string/stopAlarm"
             android:layout_height="wrap_content"
             android:layout_width="fill_parent"/>
+
+        <Button
+            android:id="@+id/buttonIntentService"
+            android:text="@string/intentService"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"/>
+
+        <Button
+            android:id="@+id/buttonLocalService"
+            android:text="@string/localService"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"/>
     </LinearLayout>
 
 </android.support.design.widget.CoordinatorLayout>
